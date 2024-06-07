@@ -1,9 +1,11 @@
 <h1>
 🙇 안녕하세요(Annyeonghaseyo) I'm Jinu Lee 👋 
-   <img src="https://github.com/leejinu/leejinu/assets/86221829/9240dc81-2d5d-415c-9815-29f4f4d58b4b" height="250" align="right">
 </h1>
 
 ### 👇 About Me
+
+<img src="https://github.com/leejinu/leejinu/assets/86221829/9240dc81-2d5d-415c-9815-29f4f4d58b4b" height="250" align="right">
+
 ```python
   class Jinu:
     def __init__(self):
