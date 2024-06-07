@@ -22,10 +22,10 @@
 ```
 
 ### 🛠 Skills
-<h3 align="left">Languages and Tools:</h3>
+### - Programming Language ###
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a> </p>
 
-### Transcriptomics data analysis: ##
+### - Transcriptomics data analysis: ##
 - Single-cell RNA sequencing, Single-nucleus RNA seqeuncing, and Microarray.
 
 ### 🌱 Always Learning
