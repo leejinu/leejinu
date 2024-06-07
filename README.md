@@ -1,5 +1,8 @@
-## 🙇 안녕하세요(Annyeonghaseyo) I'm Jinu, Lee 👋
+## 
 
+<h1>
+🙇 안녕하세요(Annyeonghaseyo) I'm Jinu, Lee 👋 <img src = "https://github.com/leejinu/leejinu/assets/86221829/e6fcd321-5f64-45d5-8695-b07dc07fb7ad", height = 150>
+</h1>
 
 Here are some ideas to get you started:
 
