@@ -16,6 +16,7 @@
         }
         self.research_interests = ["Omics data analysis", "Bioinformatics", "Immunology"]
         self.code = ["Python", "R", "C", "C++", "SQL"]
+        self.nation = "Republic of Korea"
         self.Is_fulfilled_military_service = True
         self.religion = "Christ"
         self.goal = "To push the boundaries of medical research and develop innovative therapeutic approaches."
