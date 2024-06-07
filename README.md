@@ -4,7 +4,7 @@
 
 ### 👇 About Me
 
-<img src="https://github.com/leejinu/leejinu/assets/86221829/9240dc81-2d5d-415c-9815-29f4f4d58b4b" height="250" align="right">
+<img src="https://github.com/leejinu/leejinu/assets/86221829/f5969843-2f1c-41eb-8762-3a6fa538c238" height="250" align="right">
 
 ```python
   class Jinu:
