@@ -32,7 +32,7 @@
 ### 🌱 Always Learning
 I'm constantly exploring new technologies and methodologies in bioinformatics to stay at the cutting edge of research.
 
-### 📖 My Favorite Quotes
+### 📖 My Favorite Bible Quotes
 _"You must love the Lord your God with all your heart,
 with all your being, and with all your mind. 
 This is first and greatest commandment. 
